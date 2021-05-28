@@ -1,14 +1,15 @@
-# Repositório-Firebase
+<h1 align="center"> 🚀 Repositório-Firebase</h1>
 
-## 📚 Repositório apenas dedicado para registrar os estudos.
 
-Entre em contato comigo!
+  <h2 id="sobre"> 📚 Repositório apenas dedicado para registrar os estudos.</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-wisch/)](https://www.linkedin.com/in/wesley-wisch/)
 
-📧 **[wesley_wisch@hotmail.com](mailto:wesley_wisch@hotmail.com)**
+ <h2 id="autor"> 🦸 Autor</h2>
 
-##  ⚠️  Licença
-Esse projeto esta sobre a licença Mit. veja: [LICENSE](https://github.com/wesleywisch/Repositorio-Firebase/blob/main/LICENSE)
+[Wesley Wisch](https://www.linkedin.com/in/wesley-wisch)
 
-![LICENSE-MIT2](https://user-images.githubusercontent.com/79159487/114733599-7c478980-9d11-11eb-98da-262603bc1c13.png)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square-border&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-wisch/)](https://www.linkedin.com/in/wesley-wisch) [![Instagram Badge](https://img.shields.io/badge/-Instagram-CC0000?style=flat-square-border&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley_wisch/)](https://www.instagram.com/wesley_wisch/) [![wesley_wisch@hotmail.com Bagde](https://img.shields.io/badge/wesley_wisch-2e7eea?style=flat-square-border&logo=microsoft-outlook&logoColor=white)](mailto:wesley_wisch@hotmail.com)
+
+<h2 id="licenca"> ⚠️  Licença</h2>
+
+Esse projeto esta sobre a licença [MIT](https://github.com/wesleywisch/Repositorio-Firebase/blob/main/LICENSE).
